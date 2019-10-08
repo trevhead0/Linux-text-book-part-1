@@ -444,8 +444,10 @@ Every file includes an owner and a group.  If you notice the next two columns in
 
 ### chmod 763
 
-| 7   | 6   | 5   |
+
+| Owner| Group | Everyone |
 |-----|-----|-----|
+| 7   | 6   | 5   |
 | 421 | 42- | 4-1 |
 | rwx | rw- | r-x |
 
